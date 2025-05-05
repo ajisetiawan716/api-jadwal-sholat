@@ -21,7 +21,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://api-jadwal-sholat-8sgw.vercel.app/" target='_blank' className={styles.card}>
+          <a href="https://jadwalsholat4.docs.apiary.io/" target='_blank' className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Check how to use this API</p>
           </a>
